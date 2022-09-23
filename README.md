@@ -8,7 +8,7 @@ Country list
 
 Complete inputs first.
 
-> pip install selenium
+> pip install selenium<br>
 > python revolut_sms_spam.py
 
 USE FOR EDUCATIONAL PURPOSES ONLY !
